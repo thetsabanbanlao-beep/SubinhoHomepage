@@ -1,0 +1,8 @@
+{
+  "name": "Remix หน้าเว็บเพจครูสุบิน คำมุลนา - โรงเรียนเทศบาล ๓ บ้านเหล่า",
+  "description": "ระบบโฮมเพจและคลังบทเรียนออนไลน์ ครูสุบิน คำมุลนา วิทยฐานะครูชำนาญการพิเศษ โรงเรียนเทศบาล ๓ บ้านเหล่า สำนักการศึกษา เทศบาลนครอุดรธานี พร้อมระบบจัดการหลังบ้านและ Google Apps Script",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
